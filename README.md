@@ -12,22 +12,6 @@
 
 ----
 
-### Briefly about myself:
-
-Hello everyone. My name is Mitya. I am 27 years old. I graduated from the Belarusian National Technical University in 2017. Automotive Faculty, Department of Economics and Logistics. My specialty is an engineer-economist.
-
-For the last 5 years I have been working in the field of online sales, a small private business, in particular, it was connected with the work of a content manager for online stores, SEO promotion and Social media marketing. 
-
-It is an incredible feeling when you receive positive and warm feedback on your work. When real people come to you or write that your site is very cool, fast, convenient, and it is much better than other similar ones. 
-
-Sources of information that I currently use for learning are learn.javascript.ru, mdn, David Flanagan's book: JavaScript The Definitive Guide and YouTube. 
-
-I try to practice more, because theory without practice is forgotten very quickly. One of the options is solving problems on CodeWars.
-
-I am very interested in the area of Front-end development, as I believe that developing a high-quality user interface, improving the user experience are the key sources of a web application's success.
-
-----
-
 ### Skills:
 
 * HTML / CSS
