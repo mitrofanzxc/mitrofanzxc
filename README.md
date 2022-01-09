@@ -1,4 +1,4 @@
-### Junior Front-end Developer
+### Front-end Developer
 
 ----
 
@@ -41,8 +41,7 @@ const maxRedigit = num => {
   if (num <= 0 || num.toString().length !== 3) {
     return null;
   } else {
-    return Number
-      .parseInt(num.toString()
+    return Number(num.toString()
       .split('')
       .sort((a, b) => b - a)
       .join(''));
