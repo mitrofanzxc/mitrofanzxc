@@ -25,29 +25,9 @@
 
 ----
 
-### Code Examples:
+### CodeWars:
 
 ![CodeWars](https://www.codewars.com/users/mitrofanzxc/badges/large)
-
-***Rearrange Number to Get its Maximum***
-
-*Create a function that takes one positive three digit integer and rearranges its digits to get the maximum possible number. Assume that the argument is an integer.*
-
-*Return -1 if the argument is not valid.*
-
-*Return null (nil for Ruby, nothing for Julia) if the argument is not valid.*
-```
-const maxRedigit = num => {
-  if (num <= 0 || num.toString().length !== 3) {
-    return null;
-  } else {
-    return Number(num.toString()
-      .split('')
-      .sort((a, b) => b - a)
-      .join(''));
-  }
-};
-```
 
 ----
 
