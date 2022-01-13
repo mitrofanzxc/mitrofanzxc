@@ -16,12 +16,12 @@
 
 * HTML / CSS
 * SASS / SCSS
-* JavaScript (Basic)
+* JavaScript
 * Git / GitHub / VS Code
 * Gulp (Basic)
-* Wordpress / Woocommerce (Basic)
-* Adobe Photoshop (Basic)
-* SQL (Beginner)
+* Wordpress / Woocommerce
+* Adobe Photoshop
+* SQL
 
 ----
 
@@ -66,12 +66,14 @@ const maxRedigit = num => {
   * Automotive Faculty, Department of Economics and Logistics, 2012-2017
 * **Courses:** 
   * **Sololearn:**
-    * [HTML course](https://www.sololearn.com/Certificate/1014-24283992/jpg)
-    * [CSS course](https://www.sololearn.com/Certificate/1023-24283992/jpg)
-    * [JavaScript course](https://www.sololearn.com/certificates/course/en/24283992/1024/landscape/png)
-    * [jQuery course](https://www.sololearn.com/Certificate/1082-24283992/jpg)
-    * [Responsive Web Design course](https://www.sololearn.com/Certificate/1162-24283992/jpg)
-    * [SQL course](https://www.sololearn.com/certificates/course/en/24283992/1060/landscape/png)
+    * [HTML](https://www.sololearn.com/Certificate/1014-24283992/jpg)
+    * [CSS](https://www.sololearn.com/Certificate/1023-24283992/jpg)
+    * [JavaScript](https://www.sololearn.com/certificates/course/en/24283992/1024/landscape/png)
+    * [jQuery](https://www.sololearn.com/Certificate/1082-24283992/jpg)
+    * [Responsive Web Design](https://www.sololearn.com/Certificate/1162-24283992/jpg)
+    * [SQL](https://www.sololearn.com/certificates/course/en/24283992/1060/landscape/png)
+  * **freeCodeCamp:**
+    * [Responsive Web Design](https://www.freecodecamp.org/certification/mitrofanzxc/responsive-web-design)
   * **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
 
 ----
