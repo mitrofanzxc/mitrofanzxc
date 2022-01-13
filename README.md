@@ -44,7 +44,8 @@
 
 * **Belarussian National State University**
   * Automotive Faculty, Department of Economics and Logistics, 2012-2017
-* **Courses:** 
+* **Courses:**
+  * **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
   * **freeCodeCamp:**
     * [Responsive Web Design](https://www.freecodecamp.org/certification/mitrofanzxc/responsive-web-design)
   * **Sololearn:**
@@ -54,7 +55,6 @@
     * [jQuery](https://www.sololearn.com/Certificate/1082-24283992/jpg)
     * [Responsive Web Design](https://www.sololearn.com/Certificate/1162-24283992/jpg)
     * [SQL](https://www.sololearn.com/certificates/course/en/24283992/1060/landscape/png)
-  * **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
 
 ----
 
