@@ -17,8 +17,9 @@
 * HTML / CSS
 * SASS / SCSS
 * JavaScript
+* React
 * Git / GitHub / VS Code
-* Gulp
+* Webpack / Gulp
 * Wordpress / Woocommerce
 * Adobe Photoshop
 * SQL
