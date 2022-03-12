@@ -20,8 +20,8 @@
 * React
 * Git / GitHub / VS Code
 * Webpack / Gulp
+* Figma / Photoshop
 * Wordpress / Woocommerce
-* Adobe Photoshop
 * SQL
 
 ----
