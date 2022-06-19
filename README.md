@@ -32,7 +32,7 @@
 * **Belarussian National State University**
   * Automotive Faculty, Department of Economics and Logistics, 2012-2017
 * **Courses:**
-  * [The Rolling Scopes School. React Course. Stage 3. March 2022 - May 2022](https://app.rs.school/certificate/nyjj4w4a)
+  * [The Rolling Scopes School. React Course. Stage 3. March 2022 - May 2022](https://app.rs.school/certificate/ocrpfs0q)
   * **The Rolling Scopes School. JS / Frontend Development Course. Stage 1. March 2022 - May 2022.**
   * [The Rolling Scopes School. JS / Frontend Development Course. Stage 0. December 2021 - February 2022](https://app.rs.school/certificate/nh8m3dkn)
   * **freeCodeCamp:**
