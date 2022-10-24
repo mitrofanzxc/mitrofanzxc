@@ -2,26 +2,24 @@
 
 ## Contact Information:
 
-* **Location:** Minsk, Belarus
 * **LinkedIn:** [dzmitry-karakulka](https://www.linkedin.com/in/dzmitry-karakulka/)
 * **GitHub:** [mitrofanzxc](https://github.com/mitrofanzxc)
-* **Discord:** mitrofanzxc (mitrofanzxc)#2084
 * **CodeWars:** [mitrofanzxc](https://www.codewars.com/users/mitrofanzxc)
+* **Telegram:** [@mitrofanzxc](https://t.me/mitrofanzxc)
 
 ## Skills:
 
 * HTML
 * CSS
 * SASS / SCSS
-* JavaScript
-* React
-* TypeScript
-* React Testing Library
+* JavaScript / TypeScript
+* React 16.8+ / FC / CC
+* Redux / Toolkit / Query
+* Styled Components /MUI
+* Cypress / Testing Library
+* Webpack / Yarn / npm
 * Git / GitHub / VS Code
-* Webpack / Gulp
 * Figma / Photoshop
-* Wordpress / Woocommerce
-* SQL
 
 ## CodeWars:
 
@@ -29,21 +27,18 @@
 
 ## Education:
 
-* **Belarussian National State University**
-  * Automotive Faculty, Department of Economics and Logistics, 2012-2017
-* **Courses:**
-  * [The Rolling Scopes School. React Course. Stage 3. March 2022 - May 2022](https://app.rs.school/certificate/ocrpfs0q)
-  * **The Rolling Scopes School. JS / Frontend Development Course. Stage 1. March 2022 - May 2022.**
-  * [The Rolling Scopes School. JS / Frontend Development Course. Stage 0. December 2021 - February 2022](https://app.rs.school/certificate/nh8m3dkn)
-  * **freeCodeCamp:**
-    * [Responsive Web Design](https://www.freecodecamp.org/certification/mitrofanzxc/responsive-web-design)
-  * **Sololearn:**
-    * [HTML](https://www.sololearn.com/Certificate/1014-24283992/jpg)
-    * [CSS](https://www.sololearn.com/Certificate/1023-24283992/jpg)
-    * [JavaScript](https://www.sololearn.com/certificates/course/en/24283992/1024/landscape/png)
-    * [jQuery](https://www.sololearn.com/Certificate/1082-24283992/jpg)
-    * [Responsive Web Design](https://www.sololearn.com/Certificate/1162-24283992/jpg)
-    * [SQL](https://www.sololearn.com/certificates/course/en/24283992/1060/landscape/png)
+* **Stage 1 - 2. JS / Front-end Development** 
+Mar 2022 - Sep 2022 
+The Rolling Scopes School, Minsk 
+**Link:** https://app.rs.school/certificate/5cb4f418
+* **Stage 3. React** 
+Mar 2022 - May 2022 
+The Rolling Scopes School, Minsk 
+**Link:** https://app.rs.school/certificate/ocrpfs0q
+* **Stage 0. JS / Front-end Development** 
+Dec 2021 - Feb 2022 
+The Rolling Scopes School, Minsk 
+**Link:** https://app.rs.school/certificate/nh8m3dkn
 
 ## English:
 
