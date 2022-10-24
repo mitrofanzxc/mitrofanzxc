@@ -28,16 +28,27 @@
 ## Education:
 
 * **Stage 1 - 2. JS / Front-end Development** 
+
 Mar 2022 - Sep 2022 
+
 The Rolling Scopes School, Minsk 
+
 **Link:** https://app.rs.school/certificate/5cb4f418
+
 * **Stage 3. React** 
+
 Mar 2022 - May 2022 
+
 The Rolling Scopes School, Minsk 
+
 **Link:** https://app.rs.school/certificate/ocrpfs0q
+
 * **Stage 0. JS / Front-end Development** 
+
 Dec 2021 - Feb 2022 
+
 The Rolling Scopes School, Minsk 
+
 **Link:** https://app.rs.school/certificate/nh8m3dkn
 
 ## English:
