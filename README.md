@@ -40,7 +40,7 @@
   * The Rolling Scopes School, Minsk 
   * **Link:** https://app.rs.school/certificate/nh8m3dkn
 
-## English:
+## English B1 (B1+ in progress):
 
 * [EF SET English Certificate 62/100 (C1 Advanced)](https://www.efset.org/cert/xmuzdG)
 * [B1 according to Adaptive English test 2020](https://examinator.epam.com/Main/PersonalAssignments/252515)
